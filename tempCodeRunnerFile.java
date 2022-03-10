@@ -1,0 +1,1 @@
+printarray(arrayangka5);
